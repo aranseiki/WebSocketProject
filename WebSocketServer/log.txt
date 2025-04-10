@@ -1,0 +1,1156 @@
+2023-10-07 23:46:38 - [Info] - Iniciando servidor WebSocket
+2023-10-07 23:46:38 - [Info] - Escolhendo um IP de Escuta
+2023-10-07 23:46:38 - [Info] - IP escolhido:
+2023-10-07 23:46:38 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-07 23:46:38 - [Info] - Porta escolhida:
+2023-10-07 23:46:38 - [Info] - Criando um socket do Servidor
+2023-10-07 23:46:38 - [Info] - Iniciando o socket do servidor
+2023-10-07 23:46:38 - [Info] - Aguardando por Conexões
+2023-10-07 23:46:38 - [Info] - Autenticando por SSL
+2023-10-07 23:50:29 - [Info] - Iniciando servidor WebSocket
+2023-10-07 23:50:29 - [Info] - Escolhendo um IP de Escuta
+2023-10-07 23:50:29 - [Info] - IP escolhido:
+2023-10-07 23:50:29 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-07 23:50:29 - [Info] - Porta escolhida:
+2023-10-07 23:50:29 - [Info] - Criando um socket do Servidor
+2023-10-07 23:50:29 - [Info] - Iniciando o socket do servidor
+2023-10-07 23:50:29 - [Info] - Aguardando por Conexões
+2023-10-07 23:50:29 - [Info] - Autenticando por SSL
+2023-10-08 15:25:06 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:25:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:25:06 - [Info] - IP escolhido:
+2023-10-08 15:25:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:25:06 - [Info] - Porta escolhida:
+2023-10-08 15:25:06 - [Info] - Criando um socket do Servidor
+2023-10-08 15:25:06 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:25:06 - [Info] - Aguardando por Conexões
+2023-10-08 15:25:06 - [Info] - Autenticando por SSL
+2023-10-08 15:27:47 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:27:47 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:27:47 - [Info] - IP escolhido:
+2023-10-08 15:27:47 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:27:47 - [Info] - Porta escolhida:
+2023-10-08 15:27:47 - [Info] - Criando um socket do Servidor
+2023-10-08 15:27:47 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:27:47 - [Info] - Aguardando por Conexões
+2023-10-08 15:27:47 - [Info] - Autenticando por SSL
+2023-10-08 15:30:02 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:30:02 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:30:02 - [Info] - IP escolhido:
+2023-10-08 15:30:02 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:30:02 - [Info] - Porta escolhida:
+2023-10-08 15:30:02 - [Info] - Criando um socket do Servidor
+2023-10-08 15:30:02 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:30:02 - [Info] - Aguardando por Conexões
+2023-10-08 15:30:02 - [Info] - Autenticando por SSL
+2023-10-08 15:41:18 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:41:18 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:41:18 - [Info] - IP escolhido:
+2023-10-08 15:41:18 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:41:18 - [Info] - Porta escolhida:
+2023-10-08 15:41:18 - [Info] - Criando um socket do Servidor
+2023-10-08 15:41:18 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:41:18 - [Info] - Aguardando por Conexões
+2023-10-08 15:41:18 - [Info] - Autenticando por SSL
+2023-10-08 15:42:33 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:42:33 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:42:33 - [Info] - IP escolhido:
+2023-10-08 15:42:33 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:42:33 - [Info] - Porta escolhida:
+2023-10-08 15:42:33 - [Info] - Criando um socket do Servidor
+2023-10-08 15:42:33 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:42:33 - [Info] - Aguardando por Conexões
+2023-10-08 15:42:33 - [Info] - Autenticando por SSL
+2023-10-08 15:43:18 - [Info] - Iniciando servidor WebSocket
+2023-10-08 15:43:18 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 15:43:18 - [Info] - IP escolhido:
+2023-10-08 15:43:18 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 15:43:18 - [Info] - Porta escolhida:
+2023-10-08 15:43:18 - [Info] - Criando um socket do Servidor
+2023-10-08 15:43:18 - [Info] - Iniciando o socket do servidor
+2023-10-08 15:43:18 - [Info] - Aguardando por Conexões
+2023-10-08 15:43:18 - [Info] - Autenticando por SSL
+2023-10-08 16:07:07 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-08 16:07:17 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:07:49 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:07:49 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:07:49 - [Info] - IP escolhido:
+2023-10-08 16:07:49 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:07:49 - [Info] - Porta escolhida:
+2023-10-08 16:07:49 - [Info] - Criando um socket do Servidor
+2023-10-08 16:07:49 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:07:49 - [Info] - Aguardando por Conexões
+2023-10-08 16:07:49 - [Info] - Autenticando por SSL
+2023-10-08 16:07:55 - [Servidor conectado em: 0.0.0.0:51432] - 
+2023-10-08 16:11:21 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-08 16:20:36 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:23:33 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:23:33 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:23:33 - [Info] - IP escolhido:
+2023-10-08 16:23:33 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:23:33 - [Info] - Porta escolhida:
+2023-10-08 16:23:33 - [Info] - Criando um socket do Servidor
+2023-10-08 16:23:33 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:23:33 - [Info] - Aguardando por Conexões
+2023-10-08 16:23:33 - [Info] - Autenticando por SSL
+2023-10-08 16:23:38 - [Servidor conectado em: 0.0.0.0:51957] - 
+2023-10-08 16:24:00 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:26:23 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:26:23 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:26:24 - [Info] - IP escolhido:
+2023-10-08 16:26:24 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:26:24 - [Info] - Porta escolhida:
+2023-10-08 16:26:24 - [Info] - Criando um socket do Servidor
+2023-10-08 16:26:24 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:26:24 - [Info] - Aguardando por Conexões
+2023-10-08 16:26:24 - [Info] - Autenticando por SSL
+2023-10-08 16:26:24 - [Servidor conectado em: 0.0.0.0:52067] - 
+2023-10-08 16:26:24 - [Erro] - Ocorreu um erro: Cannot bind parameter 'ErrorAction' to the target. Exception setting "ErrorAction": "The error action preference of "Suspend" is supported only on workflows."
+2023-10-08 16:26:24 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:26:50 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:26:50 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:26:50 - [Info] - IP escolhido:
+2023-10-08 16:26:50 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:26:50 - [Info] - Porta escolhida:
+2023-10-08 16:26:50 - [Info] - Criando um socket do Servidor
+2023-10-08 16:26:50 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:26:50 - [Info] - Aguardando por Conexões
+2023-10-08 16:26:50 - [Info] - Autenticando por SSL
+2023-10-08 16:26:50 - [Servidor conectado em: 0.0.0.0:52082] - 
+2023-10-08 16:26:50 - [Erro] - Ocorreu um erro: Cannot find path 'Cert:\LocalMachine\My\607cc884fa6c98aa88c6f373628411adb152768d' because it does not exist.
+2023-10-08 16:26:50 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:29:22 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:29:22 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:29:22 - [Info] - IP escolhido:
+2023-10-08 16:29:22 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:29:22 - [Info] - Porta escolhida:
+2023-10-08 16:29:22 - [Info] - Criando um socket do Servidor
+2023-10-08 16:29:22 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:29:22 - [Info] - Aguardando por Conexões
+2023-10-08 16:29:22 - [Info] - Autenticando por SSL
+2023-10-08 16:29:22 - [Servidor conectado em: 0.0.0.0:52162] - 
+2023-10-08 16:29:22 - [Erro] - Ocorreu um erro: Cannot find path 'Cert:\LocalMachine\My\aranseiki' because it does not exist.
+2023-10-08 16:29:22 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 16:31:08 - [Info] - Iniciando servidor WebSocket
+2023-10-08 16:31:08 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 16:31:08 - [Info] - IP escolhido:
+2023-10-08 16:31:08 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 16:31:08 - [Info] - Porta escolhida:
+2023-10-08 16:31:08 - [Info] - Criando um socket do Servidor
+2023-10-08 16:31:08 - [Info] - Iniciando o socket do servidor
+2023-10-08 16:31:08 - [Info] - Aguardando por Conexões
+2023-10-08 16:31:08 - [Info] - Autenticando por SSL
+2023-10-08 16:31:08 - [Servidor conectado em: 0.0.0.0:52226] - 
+2023-10-08 16:31:08 - [Erro] - Ocorreu um erro: Cannot find path 'Cert:\LocalMachine\My\607cc884fa6c98aa88c6f373628411adb152768d' because it does not exist.
+2023-10-08 16:31:08 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 18:21:12 - [Info] - Iniciando servidor WebSocket
+2023-10-08 18:21:12 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 18:21:12 - [Info] - IP escolhido:
+2023-10-08 18:21:12 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 18:21:12 - [Info] - Porta escolhida:
+2023-10-08 18:21:12 - [Info] - Criando um socket do Servidor
+2023-10-08 18:21:12 - [Info] - Iniciando o socket do servidor
+2023-10-08 18:21:12 - [Info] - Aguardando por Conexões
+2023-10-08 18:21:12 - [Info] - Autenticando por SSL
+2023-10-08 18:21:12 - [Servidor conectado em: 0.0.0.0:55723] - 
+2023-10-08 18:22:26 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 22:28:14 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:28:14 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:28:14 - [Info] - IP escolhido:
+2023-10-08 22:28:14 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:29:58 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:29:58 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:29:58 - [Info] - IP escolhido:
+2023-10-08 22:29:58 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:29:58 - [Info] - Porta escolhida:
+2023-10-08 22:29:58 - [Info] - Criando um socket do Servidor
+2023-10-08 22:29:58 - [Info] - Iniciando o socket do servidor
+2023-10-08 22:29:58 - [Info] - Aguardando por Conexões
+2023-10-08 22:29:58 - [Info] - Autenticando por SSL
+2023-10-08 22:29:58 - [Servidor conectado em: 0.0.0.0:56865] - 
+2023-10-08 22:30:55 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:30:55 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:30:55 - [Info] - IP escolhido:
+2023-10-08 22:30:55 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:30:56 - [Info] - Porta escolhida:
+2023-10-08 22:30:56 - [Info] - Criando um socket do Servidor
+2023-10-08 22:30:56 - [Info] - Iniciando o socket do servidor
+2023-10-08 22:30:56 - [Info] - Aguardando por Conexões
+2023-10-08 22:30:56 - [Info] - Autenticando por SSL
+2023-10-08 22:30:56 - [Servidor conectado em: 0.0.0.0:56872] - 
+2023-10-08 22:32:02 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:32:02 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:32:02 - [Info] - IP escolhido:
+2023-10-08 22:32:02 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:32:02 - [Info] - Porta escolhida:
+2023-10-08 22:32:02 - [Info] - Criando um socket do Servidor
+2023-10-08 22:32:02 - [Info] - Iniciando o socket do servidor
+2023-10-08 22:32:02 - [Info] - Aguardando por Conexões
+2023-10-08 22:32:02 - [Info] - Autenticando por SSL
+2023-10-08 22:32:02 - [Servidor conectado em: 0.0.0.0:56882] - 
+2023-10-08 22:32:35 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:32:35 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:32:35 - [Info] - IP escolhido:
+2023-10-08 22:32:35 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:41:56 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:41:56 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:41:56 - [Info] - IP escolhido:
+2023-10-08 22:41:56 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:42:17 - [Info] - Porta escolhida:
+2023-10-08 22:42:17 - [Info] - Criando um socket do Servidor
+2023-10-08 22:42:17 - [Info] - Iniciando o socket do servidor
+2023-10-08 22:42:17 - [Info] - Aguardando por Conexões
+2023-10-08 22:42:17 - [Info] - Autenticando por SSL
+2023-10-08 22:42:17 - [Servidor conectado em: 0.0.0.0:56934] - 
+2023-10-08 22:43:11 - [Info] - Iniciando servidor WebSocket
+2023-10-08 22:43:11 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 22:43:11 - [Info] - IP escolhido:
+2023-10-08 22:43:11 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 22:43:23 - [Info] - Porta escolhida:
+2023-10-08 22:43:23 - [Info] - Criando um socket do Servidor
+2023-10-08 22:43:23 - [Info] - Iniciando o socket do servidor
+2023-10-08 22:43:23 - [Info] - Aguardando por Conexões
+2023-10-08 22:43:23 - [Info] - Autenticando por SSL
+2023-10-08 22:43:23 - [Servidor conectado em: 0.0.0.0:51957] - 
+2023-10-08 22:50:27 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-08 22:50:27 - [Info] - Servidor WebSocket encerrado.
+2023-10-08 23:00:38 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:00:38 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:00:39 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:02:03 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:02:03 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:02:03 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:02:18 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:02:18 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:05:48 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:05:48 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:05:48 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:06:24 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:06:24 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:08:15 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:08:45 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:08:55 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:09:59 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:10:47 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:10:47 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:12:05 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:13:21 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:13:21 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:13:21 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:14:32 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:14:32 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:14:32 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:15:12 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:15:12 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:15:12 - [Erro] - Ocorreu um erro: Cannot convert the "0.0.0.0" value of type "System.Net.IPAddress" to type "System.Int32".
+2023-10-08 23:15:43 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:15:43 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:17:10 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:17:10 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:17:10 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:17:10 - [Info] - IP escolhido:
+2023-10-08 23:17:10 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 23:17:10 - [Info] - Porta escolhida:
+2023-10-08 23:17:10 - [Erro] - Ocorreu um erro: Cannot process argument transformation on parameter 'ipAddress'. Cannot convert value "" to type "System.Net.IPAddress". Error: "An invalid IP address was specified."
+2023-10-08 23:17:27 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:17:27 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:17:41 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:18:18 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:18:18 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:22:05 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:22:05 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:28:41 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:28:41 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:28:51 - [Erro] - Erro ao escolher o endereço IP de escuta: Exception calling "Parse" with "1" argument(s): "An invalid IP address was specified."
+2023-10-08 23:30:45 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:30:45 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:32:16 - [Info] - IP escolhido:
+2023-10-08 23:32:16 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 23:32:16 - [Info] - Porta escolhida:
+2023-10-08 23:32:16 - [Info] - Criando um socket do Servidor
+2023-10-08 23:32:16 - [Info] - Iniciando o socket do servidor
+2023-10-08 23:32:16 - [Info] - Aguardando por Conexões
+2023-10-08 23:32:16 - [Info] - Autenticando por SSL
+2023-10-08 23:32:16 - [Servidor conectado em: 0.0.0.0:51957] - 
+2023-10-08 23:42:34 - [Info] - Iniciando servidor WebSocket
+2023-10-08 23:42:34 - [Info] - Escolhendo um IP de Escuta
+2023-10-08 23:42:34 - [Info] - IP escolhido:
+2023-10-08 23:42:34 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-08 23:42:34 - [Info] - Porta escolhida:
+2023-10-08 23:42:34 - [Info] - Criando um socket do Servidor
+2023-10-08 23:42:34 - [Info] - Iniciando o socket do servidor
+2023-10-08 23:42:34 - [Info] - Aguardando por Conexões
+2023-10-08 23:42:34 - [Info] - Autenticando por SSL
+2023-10-08 23:42:34 - [Servidor conectado em: 0.0.0.0:51957] - 
+2023-10-08 23:42:48 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-08 23:42:48 - [Info] - Servidor WebSocket encerrado.
+2023-10-12 00:33:16 - [Info] - Iniciando servidor WebSocket
+2023-10-12 00:33:16 - [Info] - Escolhendo um IP de Escuta
+2023-10-12 00:33:16 - [Info] - IP escolhido:
+2023-10-12 00:33:16 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-12 00:33:16 - [Info] - Porta escolhida:
+2023-10-12 00:33:16 - [Info] - Criando um socket do Servidor
+2023-10-12 00:33:16 - [Info] - Iniciando o socket do servidor
+2023-10-12 00:33:16 - [Info] - Aguardando por Conexões
+2023-10-12 00:33:16 - [Info] - Autenticando por SSL
+2023-10-12 00:33:16 - [Servidor conectado em: 0.0.0.0:51957] - 
+2023-10-12 00:35:15 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-12 00:35:15 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 12:12:49 - [Info] - Iniciando servidor WebSocket
+2023-10-14 12:12:49 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 12:12:49 - [Info] - IP escolhido:
+2023-10-14 12:12:49 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 12:12:49 - [Info] - Porta escolhida:
+2023-10-14 12:12:49 - [Info] - Criando um socket do Servidor
+2023-10-14 12:12:49 - [Info] - Iniciando o socket do servidor
+2023-10-14 12:12:49 - [Info] - Aguardando por Conexões
+2023-10-14 12:12:49 - [Info] - Autenticando por SSL
+2023-10-14 12:12:49 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 12:18:04 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-14 12:18:04 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 12:34:21 - [Info] - Iniciando servidor WebSocket
+2023-10-14 12:34:21 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 12:34:21 - [Info] - IP escolhido:
+2023-10-14 12:34:21 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 12:34:21 - [Info] - Porta escolhida:
+2023-10-14 12:34:21 - [Info] - Criando um socket do Servidor
+2023-10-14 12:34:21 - [Info] - Iniciando o socket do servidor
+2023-10-14 12:34:21 - [Info] - Aguardando por Conexões
+2023-10-14 12:34:21 - [Info] - Autenticando por SSL
+2023-10-14 12:34:21 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 12:34:29 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-14 12:34:29 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 14:16:15 - [Info] - Iniciando servidor WebSocket
+2023-10-14 14:16:15 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 14:16:15 - [Info] - IP escolhido:
+2023-10-14 14:16:15 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 14:16:15 - [Info] - Porta escolhida:
+2023-10-14 14:16:15 - [Info] - Criando um socket do Servidor
+2023-10-14 14:16:15 - [Info] - Iniciando o socket do servidor
+2023-10-14 14:16:15 - [Info] - Aguardando por Conexões
+2023-10-14 14:16:15 - [Info] - Autenticando por SSL
+2023-10-14 14:16:15 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 14:16:24 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The credentials supplied to the package were not recognized"
+2023-10-14 14:16:24 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 16:18:37 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:18:37 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:18:37 - [Info] - IP escolhido:
+2023-10-14 16:18:37 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:18:37 - [Info] - Porta escolhida:
+2023-10-14 16:18:37 - [Info] - Criando um socket do Servidor
+2023-10-14 16:18:37 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:18:37 - [Info] - Aguardando por Conexões
+2023-10-14 16:18:37 - [Info] - Autenticando por SSL
+2023-10-14 16:18:37 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:19:19 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The credentials supplied to the package were not recognized"
+2023-10-14 16:19:19 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 16:39:40 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:39:40 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:39:40 - [Info] - IP escolhido:
+2023-10-14 16:39:40 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:39:40 - [Info] - Porta escolhida:
+2023-10-14 16:39:40 - [Info] - Criando um socket do Servidor
+2023-10-14 16:39:40 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:39:40 - [Info] - Aguardando por Conexões
+2023-10-14 16:39:40 - [Info] - Autenticando por SSL
+2023-10-14 16:39:40 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:39:48 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The credentials supplied to the package were not recognized"
+2023-10-14 16:39:48 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 16:41:07 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:41:07 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:41:07 - [Info] - IP escolhido:
+2023-10-14 16:41:07 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:41:07 - [Info] - Porta escolhida:
+2023-10-14 16:41:07 - [Info] - Criando um socket do Servidor
+2023-10-14 16:41:07 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:41:07 - [Info] - Aguardando por Conexões
+2023-10-14 16:41:07 - [Info] - Autenticando por SSL
+2023-10-14 16:41:07 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:41:37 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:41:37 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:41:37 - [Info] - IP escolhido:
+2023-10-14 16:41:37 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:41:37 - [Info] - Porta escolhida:
+2023-10-14 16:41:37 - [Info] - Criando um socket do Servidor
+2023-10-14 16:41:37 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:41:37 - [Info] - Aguardando por Conexões
+2023-10-14 16:41:37 - [Info] - Autenticando por SSL
+2023-10-14 16:41:37 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:42:17 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The credentials supplied to the package were not recognized"
+2023-10-14 16:42:30 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 16:43:03 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:43:03 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:43:03 - [Info] - IP escolhido:
+2023-10-14 16:43:03 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:43:03 - [Info] - Porta escolhida:
+2023-10-14 16:43:03 - [Info] - Criando um socket do Servidor
+2023-10-14 16:43:03 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:43:03 - [Info] - Aguardando por Conexões
+2023-10-14 16:43:03 - [Info] - Autenticando por SSL
+2023-10-14 16:43:03 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:55:51 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 16:57:06 - [Info] - Iniciando servidor WebSocket
+2023-10-14 16:57:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 16:57:06 - [Info] - IP escolhido:
+2023-10-14 16:57:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 16:57:06 - [Info] - Porta escolhida:
+2023-10-14 16:57:06 - [Info] - Criando um socket do Servidor
+2023-10-14 16:57:06 - [Info] - Iniciando o socket do servidor
+2023-10-14 16:57:06 - [Info] - Aguardando por Conexões
+2023-10-14 16:57:06 - [Info] - Autenticando por SSL
+2023-10-14 16:57:06 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 16:57:36 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "A call to SSPI failed, see inner exception."
+2023-10-14 16:57:36 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:33:00 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:33:00 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:33:00 - [Info] - IP escolhido:
+2023-10-14 18:33:00 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:33:00 - [Info] - Porta escolhida:
+2023-10-14 18:33:00 - [Info] - Criando um socket do Servidor
+2023-10-14 18:33:00 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:33:00 - [Info] - Aguardando por Conexões
+2023-10-14 18:33:00 - [Info] - Autenticando por SSL
+2023-10-14 18:33:00 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 18:34:31 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:34:31 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:34:31 - [Info] - IP escolhido:
+2023-10-14 18:34:31 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:34:31 - [Info] - Porta escolhida:
+2023-10-14 18:34:31 - [Info] - Criando um socket do Servidor
+2023-10-14 18:34:31 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:34:31 - [Info] - Aguardando por Conexões
+2023-10-14 18:34:31 - [Info] - Autenticando por SSL
+2023-10-14 18:34:31 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-14 18:34:56 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The credentials supplied to the package were not recognized"
+2023-10-14 18:53:48 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:53:48 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:53:48 - [Info] - IP escolhido:
+2023-10-14 18:53:48 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:53:48 - [Info] - Porta escolhida:
+2023-10-14 18:53:48 - [Info] - Criando um socket do Servidor
+2023-10-14 18:53:48 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:53:48 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-14 18:53:48 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:54:37 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:54:37 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:54:37 - [Erro] - Ocorreu um erro: Cannot process argument transformation on parameter 'ipUser'. Cannot convert value "" to type "System.Net.IPAddress". Error: "An invalid IP address was specified."
+2023-10-14 18:55:40 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:55:41 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:55:41 - [Info] - IP escolhido:
+2023-10-14 18:55:41 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:55:41 - [Info] - Porta escolhida:
+2023-10-14 18:55:41 - [Info] - Criando um socket do Servidor
+2023-10-14 18:55:41 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:55:41 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-14 18:55:41 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:56:01 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:56:01 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:56:01 - [Info] - IP escolhido:
+2023-10-14 18:56:01 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:56:01 - [Info] - Porta escolhida:
+2023-10-14 18:56:01 - [Info] - Criando um socket do Servidor
+2023-10-14 18:56:01 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:56:01 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-14 18:56:01 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:56:06 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:56:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:56:06 - [Info] - IP escolhido:
+2023-10-14 18:56:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:56:06 - [Info] - Porta escolhida:
+2023-10-14 18:56:06 - [Info] - Criando um socket do Servidor
+2023-10-14 18:56:06 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:56:06 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-14 18:56:06 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:57:43 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:57:44 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:57:44 - [Info] - IP escolhido:
+2023-10-14 18:57:44 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:57:44 - [Info] - Porta escolhida:
+2023-10-14 18:57:44 - [Info] - Criando um socket do Servidor
+2023-10-14 18:57:44 - [Info] - Iniciando o socket do servidor
+2023-10-14 18:57:44 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-14 18:57:44 - [Info] - Servidor WebSocket encerrado.
+2023-10-14 18:59:23 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:59:23 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:59:23 - [Info] - IP escolhido:
+2023-10-14 18:59:23 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:59:23 - [Info] - Porta escolhida:
+2023-10-14 18:59:23 - [Info] - Criando um socket do Servidor
+2023-10-14 18:59:37 - [Info] - Iniciando servidor WebSocket
+2023-10-14 18:59:37 - [Info] - Escolhendo um IP de Escuta
+2023-10-14 18:59:37 - [Info] - IP escolhido:
+2023-10-14 18:59:37 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-14 18:59:37 - [Info] - Porta escolhida:
+2023-10-14 18:59:37 - [Info] - Criando um socket do Servidor
+2023-10-15 15:49:54 - [Info] - Iniciando servidor WebSocket
+2023-10-15 15:49:54 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 15:49:54 - [Info] - IP escolhido:
+2023-10-15 15:49:54 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 15:49:54 - [Info] - Porta escolhida:
+2023-10-15 15:49:54 - [Info] - Criando um socket do Servidor
+2023-10-15 15:49:54 - [Info] - Iniciando o socket do servidor
+2023-10-15 15:49:54 - [Info] - Aguardando por Conexões
+2023-10-15 15:49:54 - [Info] - Autenticando por SSL
+2023-10-15 15:49:54 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-15 15:50:26 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-15 15:50:26 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 15:57:51 - [Info] - Iniciando servidor WebSocket
+2023-10-15 15:57:51 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 15:57:51 - [Info] - IP escolhido:
+2023-10-15 15:57:51 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 15:57:51 - [Info] - Porta escolhida:
+2023-10-15 15:57:51 - [Info] - Criando um socket do Servidor
+2023-10-15 15:57:51 - [Info] - Iniciando o socket do servidor
+2023-10-15 15:57:51 - [Info] - Aguardando por Conexões
+2023-10-15 15:57:51 - [Info] - Autenticando por SSL
+2023-10-15 15:57:51 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-15 15:57:56 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "The server mode SSL must use a certificate with the associated private key."
+2023-10-15 15:57:56 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 15:59:06 - [Info] - Iniciando servidor WebSocket
+2023-10-15 15:59:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 15:59:06 - [Info] - IP escolhido:
+2023-10-15 15:59:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 15:59:06 - [Info] - Porta escolhida:
+2023-10-15 15:59:06 - [Info] - Criando um socket do Servidor
+2023-10-15 15:59:06 - [Info] - Iniciando o socket do servidor
+2023-10-15 15:59:06 - [Info] - Aguardando por Conexões
+2023-10-15 15:59:06 - [Info] - Autenticando por SSL
+2023-10-15 15:59:06 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-15 15:59:11 - [Erro] - Ocorreu um erro: Exception calling "AuthenticateAsServer" with "4" argument(s): "Value cannot be null.
+Parameter name: serverCertificate"
+2023-10-15 15:59:11 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:01:06 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:01:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:01:06 - [Info] - IP escolhido:
+2023-10-15 16:01:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:01:06 - [Info] - Porta escolhida:
+2023-10-15 16:01:06 - [Info] - Criando um socket do Servidor
+2023-10-15 16:01:06 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:01:06 - [Info] - Aguardando por Conexões
+2023-10-15 16:01:06 - [Info] - Autenticando por SSL
+2023-10-15 16:01:06 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-15 16:01:11 - [Erro] - Ocorreu um erro: Cannot find an overload for "AuthenticateAsServer" and the argument count: "4".
+2023-10-15 16:01:11 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:02:53 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:02:53 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:02:53 - [Info] - IP escolhido:
+2023-10-15 16:02:53 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:02:53 - [Info] - Porta escolhida:
+2023-10-15 16:02:53 - [Info] - Criando um socket do Servidor
+2023-10-15 16:02:53 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:02:53 - [Info] - Aguardando por Conexões
+2023-10-15 16:02:53 - [Info] - Autenticando por SSL
+2023-10-15 16:02:53 - [Info] - Servidor conectado em: 0.0.0.0:51957
+2023-10-15 16:02:57 - [Erro] - Ocorreu um erro: Cannot find an overload for "AuthenticateAsServer" and the argument count: "4".
+2023-10-15 16:02:57 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:05:38 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:05:38 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:05:38 - [Info] - IP escolhido:
+2023-10-15 16:05:38 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:05:38 - [Info] - Porta escolhida:
+2023-10-15 16:05:38 - [Info] - Criando um socket do Servidor
+2023-10-15 16:05:38 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:05:38 - [Info] - Aguardando por Conexões
+2023-10-15 16:05:38 - [Info] - Autenticando sem SSL
+2023-10-15 16:05:42 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:05:42 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:05:42 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:05:42 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:10:51 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:10:51 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:10:51 - [Info] - IP escolhido:
+2023-10-15 16:10:51 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:10:51 - [Info] - Porta escolhida:
+2023-10-15 16:10:51 - [Info] - Criando um socket do Servidor
+2023-10-15 16:10:51 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:10:51 - [Info] - Aguardando por Conexões
+2023-10-15 16:10:51 - [Info] - Autenticando sem SSL
+2023-10-15 16:10:54 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:10:54 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:10:54 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:10:54 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:18:07 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:18:07 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:18:07 - [Info] - IP escolhido:
+2023-10-15 16:18:07 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:18:07 - [Info] - Porta escolhida:
+2023-10-15 16:18:07 - [Info] - Criando um socket do Servidor
+2023-10-15 16:18:07 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:18:07 - [Info] - Aguardando por Conexões
+2023-10-15 16:18:07 - [Info] - Autenticando sem SSL
+2023-10-15 16:18:11 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:18:11 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:18:11 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:18:11 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:25:48 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:25:48 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:25:48 - [Info] - IP escolhido:
+2023-10-15 16:25:48 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:25:48 - [Info] - Porta escolhida:
+2023-10-15 16:25:48 - [Info] - Criando um socket do Servidor
+2023-10-15 16:25:48 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:25:49 - [Info] - Aguardando por Conexões
+2023-10-15 16:25:49 - [Info] - Autenticando sem SSL
+2023-10-15 16:25:57 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:25:57 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:25:57 - [Info] - IP escolhido:
+2023-10-15 16:25:57 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:25:57 - [Info] - Porta escolhida:
+2023-10-15 16:25:58 - [Info] - Criando um socket do Servidor
+2023-10-15 16:25:58 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:25:58 - [Info] - Aguardando por Conexões
+2023-10-15 16:25:58 - [Info] - Autenticando sem SSL
+2023-10-15 16:26:09 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:46:12 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:46:12 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:46:15 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:46:15 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:46:15 - [Info] - IP escolhido:
+2023-10-15 16:46:15 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:46:15 - [Info] - Porta escolhida:
+2023-10-15 16:46:15 - [Info] - Criando um socket do Servidor
+2023-10-15 16:46:15 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:46:15 - [Info] - Aguardando por Conexões
+2023-10-15 16:46:15 - [Info] - Autenticando sem SSL
+2023-10-15 16:46:30 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:46:40 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:46:40 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:46:40 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:47:22 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:47:22 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:47:22 - [Info] - IP escolhido:
+2023-10-15 16:47:22 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:47:22 - [Info] - Porta escolhida:
+2023-10-15 16:47:22 - [Info] - Criando um socket do Servidor
+2023-10-15 16:47:22 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:47:22 - [Info] - Aguardando por Conexões
+2023-10-15 16:47:22 - [Info] - Autenticando sem SSL
+2023-10-15 16:47:25 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:47:25 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:47:25 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:47:25 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:47:55 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:47:55 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:47:55 - [Info] - IP escolhido:
+2023-10-15 16:47:55 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:47:55 - [Info] - Porta escolhida:
+2023-10-15 16:47:55 - [Info] - Criando um socket do Servidor
+2023-10-15 16:47:55 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:47:55 - [Info] - Aguardando por Conexões
+2023-10-15 16:47:55 - [Info] - Autenticando sem SSL
+2023-10-15 16:48:00 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:48:00 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:48:00 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:48:00 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:48:28 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:48:28 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:48:28 - [Info] - IP escolhido:
+2023-10-15 16:48:28 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:48:28 - [Info] - Porta escolhida:
+2023-10-15 16:48:28 - [Info] - Criando um socket do Servidor
+2023-10-15 16:48:28 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:48:28 - [Info] - Aguardando por Conexões
+2023-10-15 16:48:28 - [Info] - Autenticando sem SSL
+2023-10-15 16:48:30 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:48:30 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:48:30 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:48:30 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 16:49:05 - [Info] - Iniciando servidor WebSocket
+2023-10-15 16:49:05 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 16:49:05 - [Info] - IP escolhido:
+2023-10-15 16:49:05 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 16:49:05 - [Info] - Porta escolhida:
+2023-10-15 16:49:05 - [Info] - Criando um socket do Servidor
+2023-10-15 16:49:05 - [Info] - Iniciando o socket do servidor
+2023-10-15 16:49:05 - [Info] - Aguardando por Conexões
+2023-10-15 16:49:05 - [Info] - Autenticando sem SSL
+2023-10-15 16:49:08 - [Info] - Lendo a requisição do cliente
+2023-10-15 16:49:08 - [Erro] - Ocorreu um erro: You cannot call a method on a null-valued expression.
+2023-10-15 16:49:08 - [Info] - Conexão com o cliente fechada
+2023-10-15 16:49:08 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:08:38 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:08:38 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:08:38 - [Info] - IP escolhido:
+2023-10-15 17:08:38 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:08:38 - [Info] - Porta escolhida:
+2023-10-15 17:08:38 - [Info] - Criando um socket do Servidor
+2023-10-15 17:08:38 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:08:39 - [Info] - Aguardando por Conexões
+2023-10-15 17:08:39 - [Info] - Autenticando sem SSL
+2023-10-15 17:08:43 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:09:09 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:09:09 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:30:05 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:30:05 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:30:05 - [Info] - IP escolhido:
+2023-10-15 17:30:05 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:30:05 - [Info] - Porta escolhida:
+2023-10-15 17:30:05 - [Info] - Criando um socket do Servidor
+2023-10-15 17:30:05 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:30:05 - [Info] - Aguardando por Conexões
+2023-10-15 17:30:05 - [Info] - Autenticando sem SSL
+2023-10-15 17:30:12 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:30:59 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:30:59 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:30:59 - [Info] - IP escolhido:
+2023-10-15 17:30:59 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:30:59 - [Info] - Porta escolhida:
+2023-10-15 17:30:59 - [Info] - Criando um socket do Servidor
+2023-10-15 17:30:59 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:30:59 - [Info] - Aguardando por Conexões
+2023-10-15 17:30:59 - [Info] - Autenticando sem SSL
+2023-10-15 17:31:04 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:34:21 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:34:21 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:34:21 - [Info] - IP escolhido:
+2023-10-15 17:34:21 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:34:21 - [Info] - Porta escolhida:
+2023-10-15 17:34:21 - [Info] - Criando um socket do Servidor
+2023-10-15 17:34:21 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:34:21 - [Info] - Aguardando por Conexões
+2023-10-15 17:34:21 - [Info] - Autenticando sem SSL
+2023-10-15 17:34:25 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:35:32 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:35:32 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:35:51 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:35:51 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:35:51 - [Info] - IP escolhido:
+2023-10-15 17:35:51 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:35:51 - [Info] - Porta escolhida:
+2023-10-15 17:35:51 - [Info] - Criando um socket do Servidor
+2023-10-15 17:35:51 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:35:51 - [Info] - Aguardando por Conexões
+2023-10-15 17:35:51 - [Info] - Autenticando sem SSL
+2023-10-15 17:35:55 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:36:59 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:36:59 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:37:08 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:37:08 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:37:08 - [Info] - IP escolhido:
+2023-10-15 17:37:08 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:37:08 - [Info] - Porta escolhida:
+2023-10-15 17:37:08 - [Info] - Criando um socket do Servidor
+2023-10-15 17:37:08 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:37:08 - [Info] - Aguardando por Conexões
+2023-10-15 17:37:08 - [Info] - Autenticando sem SSL
+2023-10-15 17:37:10 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:37:10 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 17:38:07 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:38:07 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:47:39 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:47:39 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:47:39 - [Info] - IP escolhido:
+2023-10-15 17:47:39 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:47:39 - [Info] - Porta escolhida:
+2023-10-15 17:47:39 - [Info] - Criando um socket do Servidor
+2023-10-15 17:47:39 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:47:39 - [Info] - Aguardando por Conexões
+2023-10-15 17:47:39 - [Info] - Autenticando sem SSL
+2023-10-15 17:47:43 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:47:43 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 17:47:43 - [Erro] - Requisição inválida para WebSocket
+2023-10-15 17:47:43 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:47:43 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:47:43 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 17:58:07 - [Info] - Iniciando servidor WebSocket
+2023-10-15 17:58:07 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 17:58:07 - [Info] - IP escolhido:
+2023-10-15 17:58:07 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 17:58:07 - [Info] - Porta escolhida:
+2023-10-15 17:58:07 - [Info] - Criando um socket do Servidor
+2023-10-15 17:58:07 - [Info] - Iniciando o socket do servidor
+2023-10-15 17:58:07 - [Info] - Aguardando por Conexões
+2023-10-15 17:58:07 - [Info] - Autenticando sem SSL
+2023-10-15 17:58:10 - [Info] - Lendo a requisição do cliente
+2023-10-15 17:58:10 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 17:58:10 - [Erro] - Requisição inválida para WebSocket
+2023-10-15 17:58:10 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:58:10 - [Info] - Conexão com o cliente fechada
+2023-10-15 17:58:10 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 18:03:44 - [Info] - Iniciando servidor WebSocket
+2023-10-15 18:03:44 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 18:03:44 - [Info] - IP escolhido:
+2023-10-15 18:03:44 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 18:03:44 - [Info] - Porta escolhida:
+2023-10-15 18:03:44 - [Info] - Criando um socket do Servidor
+2023-10-15 18:03:44 - [Info] - Iniciando o socket do servidor
+2023-10-15 18:03:44 - [Info] - Aguardando por Conexões
+2023-10-15 18:03:44 - [Info] - Autenticando sem SSL
+2023-10-15 18:03:46 - [Info] - Lendo a requisição do cliente
+2023-10-15 18:03:46 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 18:03:46 - [Erro] - Requisição inválida para WebSocket
+2023-10-15 18:03:46 - [Info] - Conexão com o cliente fechada
+2023-10-15 18:03:46 - [Info] - Conexão com o cliente fechada
+2023-10-15 18:03:46 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 18:04:06 - [Info] - Iniciando servidor WebSocket
+2023-10-15 18:04:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 18:04:06 - [Info] - IP escolhido:
+2023-10-15 18:04:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 18:04:06 - [Info] - Porta escolhida:
+2023-10-15 18:04:06 - [Info] - Criando um socket do Servidor
+2023-10-15 18:04:06 - [Info] - Iniciando o socket do servidor
+2023-10-15 18:04:06 - [Info] - Aguardando por Conexões
+2023-10-15 18:04:06 - [Info] - Autenticando sem SSL
+2023-10-15 18:04:10 - [Info] - Lendo a requisição do cliente
+2023-10-15 18:04:10 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 18:12:41 - [Erro] - Erro ao decodificar quadro WebSocket: The operation '[System.Char] -shr [System.Int32]' is not defined.
+2023-10-15 18:14:16 - [Erro] - Erro ao decodificar quadro WebSocket: The operation '[System.Char] -shr [System.Int32]' is not defined.
+2023-10-15 18:15:38 - [Erro] - Erro ao decodificar quadro WebSocket: The operation '[System.Char] -shr [System.Int32]' is not defined.
+2023-10-15 18:17:33 - [Erro] - Erro ao decodificar quadro WebSocket: The operation '[System.Char] -shr [System.Int32]' is not defined.
+2023-10-15 18:26:07 - [Erro] - Erro ao decodificar quadro WebSocket: The operation '[System.Char] -shr [System.Int32]' is not defined.
+2023-10-15 18:27:10 - [Info] - Conexão com o cliente fechada
+2023-10-15 18:27:10 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 18:27:25 - [Info] - Iniciando servidor WebSocket
+2023-10-15 18:27:25 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 18:27:25 - [Info] - IP escolhido:
+2023-10-15 18:27:25 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 18:27:25 - [Info] - Porta escolhida:
+2023-10-15 18:27:25 - [Info] - Criando um socket do Servidor
+2023-10-15 18:27:25 - [Info] - Iniciando o socket do servidor
+2023-10-15 18:27:25 - [Info] - Aguardando por Conexões
+2023-10-15 18:27:25 - [Info] - Autenticando sem SSL
+2023-10-15 18:27:30 - [Info] - Lendo a requisição do cliente
+2023-10-15 18:27:30 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 18:39:34 - [Info] - Conexão com o cliente fechada
+2023-10-15 18:39:34 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 18:39:54 - [Info] - Iniciando servidor WebSocket
+2023-10-15 18:39:54 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 18:39:54 - [Info] - IP escolhido:
+2023-10-15 18:39:54 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 18:39:54 - [Info] - Porta escolhida:
+2023-10-15 18:39:54 - [Info] - Criando um socket do Servidor
+2023-10-15 18:39:54 - [Info] - Iniciando o socket do servidor
+2023-10-15 18:39:54 - [Info] - Aguardando por Conexões
+2023-10-15 18:39:54 - [Info] - Autenticando sem SSL
+2023-10-15 18:39:57 - [Info] - Lendo a requisição do cliente
+2023-10-15 18:39:57 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 18:46:39 - [Info] - Conexão com o cliente fechada
+2023-10-15 18:46:39 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 18:46:55 - [Info] - Iniciando servidor WebSocket
+2023-10-15 18:46:55 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 18:46:55 - [Info] - IP escolhido:
+2023-10-15 18:46:55 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 18:46:55 - [Info] - Porta escolhida:
+2023-10-15 18:46:55 - [Info] - Criando um socket do Servidor
+2023-10-15 18:46:55 - [Info] - Iniciando o socket do servidor
+2023-10-15 18:46:55 - [Info] - Aguardando por Conexões
+2023-10-15 18:46:55 - [Info] - Autenticando sem SSL
+2023-10-15 18:46:59 - [Info] - Lendo a requisição do cliente
+2023-10-15 18:46:59 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 19:13:03 - [Info] - Conexão com o cliente fechada
+2023-10-15 19:13:03 - [Info] - Servidor WebSocket encerrado.
+2023-10-15 19:13:25 - [Info] - Iniciando servidor WebSocket
+2023-10-15 19:13:25 - [Info] - Escolhendo um IP de Escuta
+2023-10-15 19:13:25 - [Info] - IP escolhido:
+2023-10-15 19:13:25 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-15 19:13:25 - [Info] - Porta escolhida:
+2023-10-15 19:13:25 - [Info] - Criando um socket do Servidor
+2023-10-15 19:13:26 - [Info] - Iniciando o socket do servidor
+2023-10-15 19:13:26 - [Info] - Aguardando por Conexões
+2023-10-15 19:13:26 - [Info] - Autenticando sem SSL
+2023-10-15 19:13:32 - [Info] - Lendo a requisição do cliente
+2023-10-15 19:13:32 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-15 19:13:53 - [Info] - Conexão com o cliente fechada
+2023-10-15 19:13:53 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 16:33:51 - [Info] - Iniciando servidor WebSocket
+2023-10-21 16:33:51 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 16:33:51 - [Info] - IP escolhido:
+2023-10-21 16:33:51 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 16:33:51 - [Info] - Porta escolhida:
+2023-10-21 16:33:51 - [Info] - Criando um socket do Servidor
+2023-10-21 16:33:51 - [Info] - Iniciando o socket do servidor
+2023-10-21 16:33:51 - [Info] - Aguardando por Conexões
+2023-10-21 16:33:51 - [Info] - Autenticando sem SSL
+2023-10-21 16:33:53 - [Info] - Lendo a requisição do cliente
+2023-10-21 16:33:53 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-21 17:25:50 - [Erro] - Requisição inválida para WebSocket
+2023-10-21 17:25:50 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:25:50 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:25:50 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:26:05 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:26:05 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:26:05 - [Info] - IP escolhido:
+2023-10-21 17:26:05 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:26:05 - [Info] - Porta escolhida:
+2023-10-21 17:26:05 - [Info] - Criando um socket do Servidor
+2023-10-21 17:26:05 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:26:05 - [Info] - Aguardando por Conexões
+2023-10-21 17:26:05 - [Info] - Autenticando sem SSL
+2023-10-21 17:26:23 - [Info] - Lendo a requisição do cliente
+2023-10-21 17:26:23 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-21 17:29:29 - [Erro] - Requisição inválida para WebSocket
+2023-10-21 17:29:29 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:29:29 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:29:29 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:29:40 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:29:40 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:29:40 - [Info] - IP escolhido:
+2023-10-21 17:29:40 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:29:40 - [Info] - Porta escolhida:
+2023-10-21 17:29:40 - [Info] - Criando um socket do Servidor
+2023-10-21 17:29:40 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:29:40 - [Info] - Aguardando por Conexões
+2023-10-21 17:29:40 - [Info] - Autenticando sem SSL
+2023-10-21 17:29:45 - [Info] - Lendo a requisição do cliente
+2023-10-21 17:29:45 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-21 17:43:01 - [Erro] - Requisição inválida para WebSocket
+2023-10-21 17:43:01 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:43:01 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:43:01 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:43:20 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:43:20 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:43:20 - [Info] - IP escolhido:
+2023-10-21 17:43:20 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:43:20 - [Info] - Porta escolhida:
+2023-10-21 17:43:20 - [Info] - Criando um socket do Servidor
+2023-10-21 17:43:20 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:43:20 - [Info] - Aguardando por Conexões
+2023-10-21 17:43:20 - [Info] - Autenticando sem SSL
+2023-10-21 17:43:24 - [Info] - Lendo a requisição do cliente
+2023-10-21 17:45:24 - [Info] - Verificando se a requisição é um handshake WebSocket
+2023-10-21 17:45:33 - [Erro] - Ocorreu um erro: Exception calling "Substring" with "2" argument(s): "startIndex cannot be larger than length of string.
+Parameter name: startIndex"
+2023-10-21 17:45:33 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:45:33 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:46:19 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:46:19 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:46:19 - [Info] - IP escolhido:
+2023-10-21 17:46:19 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:46:19 - [Info] - Porta escolhida:
+2023-10-21 17:46:19 - [Info] - Criando um socket do Servidor
+2023-10-21 17:46:19 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:46:19 - [Info] - Aguardando por Conexões
+2023-10-21 17:46:19 - [Info] - Autenticando sem SSL
+2023-10-21 17:46:23 - [Info] - Lendo a requisição do cliente
+2023-10-21 17:46:23 - [Erro] - Ocorreu um erro: Cannot find an overload for "GetString" and the argument count: "3".
+2023-10-21 17:46:23 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:46:23 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:46:37 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:46:37 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:46:37 - [Info] - IP escolhido:
+2023-10-21 17:46:37 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:46:37 - [Info] - Porta escolhida:
+2023-10-21 17:46:37 - [Info] - Criando um socket do Servidor
+2023-10-21 17:46:37 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:46:37 - [Info] - Aguardando por Conexões
+2023-10-21 17:46:37 - [Info] - Autenticando sem SSL
+2023-10-21 17:46:43 - [Info] - Lendo a requisição do cliente
+2023-10-21 17:49:18 - [Info] - Conexão com o cliente fechada
+2023-10-21 17:49:18 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 17:49:28 - [Info] - Iniciando servidor WebSocket
+2023-10-21 17:49:28 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 17:49:28 - [Info] - IP escolhido:
+2023-10-21 17:49:28 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 17:49:28 - [Info] - Porta escolhida:
+2023-10-21 17:49:28 - [Info] - Criando um socket do Servidor
+2023-10-21 17:49:28 - [Info] - Iniciando o socket do servidor
+2023-10-21 17:49:28 - [Info] - Aguardando por Conexões
+2023-10-21 17:49:28 - [Info] - Autenticando sem SSL
+2023-10-21 17:49:32 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:00:56 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:00:56 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:01:06 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:01:06 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:01:06 - [Info] - IP escolhido:
+2023-10-21 18:01:06 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:01:06 - [Info] - Porta escolhida:
+2023-10-21 18:01:06 - [Info] - Criando um socket do Servidor
+2023-10-21 18:01:06 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:01:06 - [Info] - Aguardando por Conexões
+2023-10-21 18:01:06 - [Info] - Autenticando sem SSL
+2023-10-21 18:01:09 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:02:23 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:02:23 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:02:30 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:02:30 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:02:30 - [Info] - IP escolhido:
+2023-10-21 18:02:30 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:02:30 - [Info] - Porta escolhida:
+2023-10-21 18:02:30 - [Info] - Criando um socket do Servidor
+2023-10-21 18:02:30 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:02:30 - [Info] - Aguardando por Conexões
+2023-10-21 18:02:30 - [Info] - Autenticando sem SSL
+2023-10-21 18:02:38 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:06:01 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:06:01 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:06:07 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:06:07 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:06:07 - [Info] - IP escolhido:
+2023-10-21 18:06:07 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:06:07 - [Info] - Porta escolhida:
+2023-10-21 18:06:07 - [Info] - Criando um socket do Servidor
+2023-10-21 18:06:07 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:06:07 - [Info] - Aguardando por Conexões
+2023-10-21 18:06:07 - [Info] - Autenticando sem SSL
+2023-10-21 18:06:11 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:14:41 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:14:41 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:14:49 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:14:49 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:14:49 - [Info] - IP escolhido:
+2023-10-21 18:14:49 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:14:49 - [Info] - Porta escolhida:
+2023-10-21 18:14:49 - [Info] - Criando um socket do Servidor
+2023-10-21 18:14:49 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:14:49 - [Info] - Aguardando por Conexões
+2023-10-21 18:14:49 - [Info] - Autenticando sem SSL
+2023-10-21 18:20:46 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:20:46 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:20:46 - [Info] - IP escolhido:
+2023-10-21 18:20:46 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:20:46 - [Info] - Porta escolhida:
+2023-10-21 18:20:46 - [Info] - Criando um socket do Servidor
+2023-10-21 18:20:46 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:20:46 - [Info] - Aguardando por Conexões
+2023-10-21 18:20:46 - [Info] - Autenticando sem SSL
+2023-10-21 18:21:09 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:22:38 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:22:38 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:22:41 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:22:41 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:22:41 - [Info] - IP escolhido:
+2023-10-21 18:22:41 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:22:41 - [Info] - Porta escolhida:
+2023-10-21 18:22:41 - [Info] - Criando um socket do Servidor
+2023-10-21 18:22:41 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:22:41 - [Info] - Aguardando por Conexões
+2023-10-21 18:22:41 - [Info] - Autenticando sem SSL
+2023-10-21 18:22:55 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:25:33 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:25:33 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:29:00 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:29:00 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:29:00 - [Info] - IP escolhido:
+2023-10-21 18:29:00 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:29:00 - [Info] - Porta escolhida:
+2023-10-21 18:29:00 - [Info] - Criando um socket do Servidor
+2023-10-21 18:29:00 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:29:00 - [Info] - Aguardando por Conexões
+2023-10-21 18:29:00 - [Info] - Autenticando sem SSL
+2023-10-21 18:29:18 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:30:24 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:30:24 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:32:18 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:32:18 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:32:18 - [Info] - IP escolhido:
+2023-10-21 18:32:18 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:32:18 - [Info] - Porta escolhida:
+2023-10-21 18:32:18 - [Info] - Criando um socket do Servidor
+2023-10-21 18:32:18 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:32:18 - [Info] - Aguardando por Conexões
+2023-10-21 18:32:18 - [Info] - Autenticando sem SSL
+2023-10-21 18:32:25 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:41:14 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:41:14 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:41:14 - [Info] - IP escolhido:
+2023-10-21 18:41:14 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:41:14 - [Info] - Porta escolhida:
+2023-10-21 18:41:14 - [Info] - Criando um socket do Servidor
+2023-10-21 18:41:14 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:41:14 - [Info] - Aguardando por Conexões
+2023-10-21 18:41:14 - [Info] - Autenticando sem SSL
+2023-10-21 18:41:19 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:49:41 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:49:41 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:49:45 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:49:45 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:49:45 - [Info] - IP escolhido:
+2023-10-21 18:49:45 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:49:45 - [Info] - Porta escolhida:
+2023-10-21 18:49:45 - [Info] - Criando um socket do Servidor
+2023-10-21 18:49:45 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:49:45 - [Info] - Aguardando por Conexões
+2023-10-21 18:49:45 - [Info] - Autenticando sem SSL
+2023-10-21 18:49:52 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:52:17 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:52:17 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:52:30 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:52:30 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:52:30 - [Info] - IP escolhido:
+2023-10-21 18:52:30 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:52:30 - [Info] - Porta escolhida:
+2023-10-21 18:52:30 - [Info] - Criando um socket do Servidor
+2023-10-21 18:52:30 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:52:30 - [Info] - Aguardando por Conexões
+2023-10-21 18:52:30 - [Info] - Autenticando sem SSL
+2023-10-21 18:52:35 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:53:15 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:53:15 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:53:15 - [Info] - IP escolhido:
+2023-10-21 18:53:15 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:53:15 - [Info] - Porta escolhida:
+2023-10-21 18:53:15 - [Info] - Criando um socket do Servidor
+2023-10-21 18:53:15 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:53:15 - [Info] - Aguardando por Conexões
+2023-10-21 18:53:15 - [Info] - Autenticando sem SSL
+2023-10-21 18:53:27 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:54:27 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:54:27 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:54:27 - [Info] - IP escolhido:
+2023-10-21 18:54:27 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:54:27 - [Info] - Porta escolhida:
+2023-10-21 18:54:27 - [Info] - Criando um socket do Servidor
+2023-10-21 18:54:27 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:54:27 - [Info] - Aguardando por Conexões
+2023-10-21 18:54:27 - [Info] - Autenticando sem SSL
+2023-10-21 18:54:35 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:54:45 - [Erro] - Erro ao decodificar chunk de arquivo: Method invocation failed because [System.Net.Sockets.NetworkStream] does not contain a method named 'op_BitwiseAnd'.
+2023-10-21 18:57:47 - [Info] - Conexão com o cliente fechada
+2023-10-21 18:57:47 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 18:57:57 - [Info] - Iniciando servidor WebSocket
+2023-10-21 18:57:57 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 18:57:57 - [Info] - IP escolhido:
+2023-10-21 18:57:57 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 18:57:58 - [Info] - Porta escolhida:
+2023-10-21 18:57:58 - [Info] - Criando um socket do Servidor
+2023-10-21 18:57:58 - [Info] - Iniciando o socket do servidor
+2023-10-21 18:57:58 - [Info] - Aguardando por Conexões
+2023-10-21 18:57:58 - [Info] - Autenticando sem SSL
+2023-10-21 18:58:02 - [Info] - Lendo a requisição do cliente
+2023-10-21 18:58:58 - [Erro] - Erro ao decodificar chunk de arquivo: Method invocation failed because [System.Net.Sockets.NetworkStream] does not contain a method named 'op_BitwiseAnd'.
+2023-10-21 19:01:19 - [Info] - Iniciando servidor WebSocket
+2023-10-21 19:01:19 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 19:01:19 - [Info] - IP escolhido:
+2023-10-21 19:01:19 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 19:01:19 - [Info] - Porta escolhida:
+2023-10-21 19:01:19 - [Info] - Criando um socket do Servidor
+2023-10-21 19:01:19 - [Info] - Iniciando o socket do servidor
+2023-10-21 19:01:19 - [Erro] - Ocorreu um erro: Exception calling "Start" with "0" argument(s): "Only one usage of each socket address (protocol/network address/port) is normally permitted"
+2023-10-21 19:01:19 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 19:01:47 - [Info] - Iniciando servidor WebSocket
+2023-10-21 19:01:47 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 19:01:47 - [Info] - IP escolhido:
+2023-10-21 19:01:47 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 19:01:47 - [Info] - Porta escolhida:
+2023-10-21 19:01:47 - [Info] - Criando um socket do Servidor
+2023-10-21 19:01:47 - [Info] - Iniciando o socket do servidor
+2023-10-21 19:01:47 - [Info] - Aguardando por Conexões
+2023-10-21 19:01:47 - [Info] - Autenticando sem SSL
+2023-10-21 19:01:53 - [Info] - Lendo a requisição do cliente
+2023-10-21 19:02:00 - [Erro] - Erro ao decodificar chunk de arquivo: Method invocation failed because [System.Net.Sockets.NetworkStream] does not contain a method named 'op_BitwiseAnd'.
+2023-10-21 19:03:17 - [Info] - Conexão com o cliente fechada
+2023-10-21 19:03:17 - [Info] - Servidor WebSocket encerrado.
+2023-10-21 19:03:25 - [Info] - Iniciando servidor WebSocket
+2023-10-21 19:03:25 - [Info] - Escolhendo um IP de Escuta
+2023-10-21 19:03:26 - [Info] - IP escolhido:
+2023-10-21 19:03:26 - [Info] - Escolhendo uma Porta de Escuta
+2023-10-21 19:03:26 - [Info] - Porta escolhida:
+2023-10-21 19:03:26 - [Info] - Criando um socket do Servidor
+2023-10-21 19:03:26 - [Info] - Iniciando o socket do servidor
+2023-10-21 19:03:26 - [Info] - Aguardando por Conexões
+2023-10-21 19:03:26 - [Info] - Autenticando sem SSL
+2023-10-21 19:03:34 - [Info] - Lendo a requisição do cliente
+2023-12-11 21:38:20 - [Info] - Iniciando servidor WebSocket
+2023-12-11 21:38:20 - [Info] - Escolhendo um IP de Escuta
+2023-12-11 21:38:20 - [Info] - IP escolhido:
+2023-12-11 21:38:20 - [Info] - Escolhendo uma Porta de Escuta
+2023-12-11 21:38:20 - [Info] - Porta escolhida:
+2023-12-11 21:38:20 - [Info] - Criando um socket do Servidor
+2023-12-11 21:38:20 - [Info] - Iniciando o socket do servidor
+2023-12-11 21:38:20 - [Info] - Aguardando por Conexões
+2023-12-11 21:38:20 - [Info] - Autenticando sem SSL
+2023-12-11 21:38:27 - [Info] - Lendo a requisição do cliente
+2023-12-11 23:02:52 - [Erro] - A requisição está vazia. Envie alguma mensagem na requisição pelo cliente
+2023-12-11 23:02:52 - [Erro] - Ocorreu um erro: A positional parameter cannot be found that accepts argument 'A requisição está vazia. Envie alguma mensagem na requisição pelo cliente'.
+2023-12-11 23:02:52 - [Info] - Conexão com o cliente fechada
+2023-12-11 23:02:52 - [Info] - Servidor WebSocket encerrado.

@@ -1,0 +1,7 @@
+{
+    "dnsName": "localhost",
+    "certName": "MySelfSignedCert",
+    "certPassword": "sua-senha",
+    "exportPath": "C:\\dev\\WebSocketServer\\certificado.pfx",
+    "certStoreLocation": "cert:\\LocalMachine\\My"
+}  
