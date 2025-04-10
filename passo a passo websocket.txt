@@ -1,0 +1,13 @@
+﻿Passos do servidor:
+Realizar o Handshake WebSocket
+Estabelecer a Comunicação WebSocket
+Gerenciar Mensagens WebSocket
+Tratar Desconexões
+Tratamento de erros mais robusto
+Segurança
+Logging
+Teste cuidadosamente
+Testes de Estresse e Desempenho
+Documentação
+
+Passos do cliente:
